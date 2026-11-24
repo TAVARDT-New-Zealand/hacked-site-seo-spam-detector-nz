@@ -1,4 +1,4 @@
-# Hacked Site and SEO Spam Detector | TAVARDT New Zealand
+# Hacked Site and SEO Spam Detector
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/nz/seo-spam-detector/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For continuous monitoring and web integrity verification:
 ## CERT NZ Aligned Decontamination Advisory
 
 For forensic investigations and hardening under CERT NZ Incident Advice and NZISM Web Hardening, connect with **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
