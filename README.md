@@ -5,7 +5,7 @@
 
 Forensic audit tool probing for conditional search bot cloaking, concealed link farms, and web compromise signatures for New Zealand organisations.
 
-Engineered and maintained by the digital integrity and incident response team at **TAVARDT New Zealand**.
+Engineered and maintained by the digital integrity and incident response team at **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py example.co.nz -json
 For continuous monitoring and web integrity verification:
 
 * **Official Hacked Site and SEO Spam Detector**
-* **TAVARDT New Zealand Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## CERT NZ Aligned Decontamination Advisory
 
-For forensic investigations and hardening under CERT NZ Incident Advice and NZISM Web Hardening, connect with **TAVARDT New Zealand**.
+For forensic investigations and hardening under CERT NZ Incident Advice and NZISM Web Hardening, connect with **TAVARDT**.
 
 ***
 
